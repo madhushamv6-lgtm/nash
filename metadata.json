@@ -1,0 +1,6 @@
+{
+  "name": "Smart Exit Guardian",
+  "description": "Dashboard for the Smart Exit Guardian IoT project, displaying travel logs and destination frequency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
